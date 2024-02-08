@@ -3,7 +3,7 @@
 The Supershop project implemented using GLUT OpenGL is a visually captivating simulation of a modern-day supermarket. This project aims to recreate the realistic environment
 of a supershop, complete with various functional elements and interactive features.
 
-I have made this project from scratch. Thank you @cOder-doctor for the instructions in my Computer Graphics Course.
+I have made this project from scratch. Thank you [Tamim Hossain](https://github.com/cOder-doctor) for the guidelines in my Computer Graphics Course.
 
 ## Technologies Used
 
