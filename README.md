@@ -31,6 +31,10 @@ I have made this project from scratch. Thank you [Tamim Hossain](https://github.
 
 ![First Floor](/docs/freezers.png)
 
+[![GitHub stars](https://img.shields.io/github/stars/TerminalWarlord/3D-SuperShop-A-Graphics-Project.svg?style=social&label=Star)](https://github.com/TerminalWarlord/) ![GitHub followers](https://img.shields.io/github/followers/TerminalWarlord.svg?style=social&label=Follow)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TerminalWarlord/3D-SuperShop-A-Graphics-Project)
+
 ## Credits
 
 - [TerminalWarlord](https://github.com/TerminalWarlord)
